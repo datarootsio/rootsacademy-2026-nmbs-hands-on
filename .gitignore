@@ -6,7 +6,9 @@ __pycache__/
 venv/
 .idea/
 *.md
+!README.md
 scraper/
 slides/
 notebooks/checkpoint_notebooks/
 data/checkpoints/
+data/raw/*.log

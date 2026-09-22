@@ -1,0 +1,14 @@
+[project]
+name = "rootsacademy-2026-nmbs-hands-on"
+version = "0.1.0"
+description = "RootsAcademy 2026 -- NMBS hands-on end-to-end ML workshop"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "matplotlib",
+    "folium",
+    "jupyter",
+    "pyarrow",
+]
