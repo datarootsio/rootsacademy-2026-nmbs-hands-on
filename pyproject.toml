@@ -11,4 +11,5 @@ dependencies = [
     "folium",
     "jupyter",
     "pyarrow",
+    "ipywidgets",
 ]

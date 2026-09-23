@@ -60,4 +60,4 @@ evaluation & storytelling.
    uv run jupyter notebook notebooks/assignment_notebooks/01_data_understanding_DIY.ipynb
    ```
 
-Work through the four notebooks **in order** — each stage saves what the next one needs.
+Work through the four notebooks **in order**; each stage saves what the next one needs.
